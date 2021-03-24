@@ -1,0 +1,67 @@
+body{
+	background-color:#101820ff;
+	font-family: 'Balsamiq Sans', cursive;
+	color:#f2aa4cff;
+	font-size:1.25em;
+}
+
+h1{
+	text-align:center;
+	font-family: 'Bookman Old Style', Rockwell, serif;
+	font-size:3em;
+	background-color:#f2aa4cff;
+	color:#101820ff;
+	text-transform:uppercase;
+	word-spacing:20px;
+	text-shadow: 5px 5px 6px yellow;
+	margin-right:1300px;
+	border-radius:30px;
+}
+
+h2{
+	font-family: 'Bookman Old Style', serif;
+	background-color:#333333;
+	word-spacing: 5px;
+	line-height: 50px;
+	text-align:center;
+	text-decoration:none;
+}
+
+h2 > a{
+	text-decoration:none;
+}
+
+h2 > a:hover{
+	text-decoration:underline;
+}
+
+a {
+	color:orange;
+}
+
+audio{
+	margin-left:100px;
+	width:1000px;
+}
+
+hr{
+	border:2px solid orange;
+}
+
+.categ {
+	margin-left:45px;
+	padding-left:25px;
+	width:200px;
+	border-radius:10px;
+	text-align:left;
+}
+
+p{
+	text-align:justify;
+	font-size:1em;
+	text-indent: 50px;
+	line-height: 30px;
+	word-spacing: 3px;
+	margin-left: 100px;
+	margin-right: 240px
+}

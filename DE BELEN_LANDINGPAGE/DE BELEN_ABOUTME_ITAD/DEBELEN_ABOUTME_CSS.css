@@ -1,0 +1,66 @@
+body{
+	background-color:#101820ff;
+	font-family: 'Balsamiq Sans', cursive;
+	color:#f2aa4cff;
+	font-size:1.25em;
+	text-align:center;
+}
+
+h1{
+	text-align:center;
+	font-family: 'Bookman Old Style', Rockwell, serif;
+	font-size:3em;
+	background-color:#f2aa4cff;
+	color:#101820ff;
+	text-transform:uppercase;
+	word-spacing:20px;
+	text-shadow: 5px 5px 6px yellow;
+}
+
+h2{
+	font-family: 'Bookman Old Style', serif;
+	background-color:#333333;
+	text-align:center;
+	word-spacing: 5px;
+	line-height: 50px;
+	text-shadow: 3px 3px 4px orange;
+}
+
+p{
+	text-align:justify;
+	font-size:1em;
+	text-indent: 50px;
+	line-height: 30px;
+	word-spacing: 3px;
+}
+
+hr{
+	border:2px solid orange;
+}
+
+.menu {
+	text-shadow:none;
+	text-decoration:none;
+}
+
+h2 > a{
+	text-decoration:none;
+}
+
+h2 > a:hover{
+	text-decoration:underline;
+}
+
+.position{
+	float:left;
+	margin-right:20px;
+}
+
+.position2{
+	float:right;
+	margin-left:20px;
+}
+
+.size{
+	width:570px;
+}
